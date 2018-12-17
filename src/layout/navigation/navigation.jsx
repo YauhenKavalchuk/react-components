@@ -11,6 +11,7 @@ const Navigation = () => (
       <ul className="nav">
         <li><NavLink exact to="/">Home</NavLink></li>
         <li><NavLink to="/button">Button</NavLink></li>
+        <li><NavLink to="/button-group">Button Group</NavLink></li>
       </ul>
     </nav>
   </div>

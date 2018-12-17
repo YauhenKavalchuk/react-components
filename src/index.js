@@ -7,6 +7,7 @@ import registerServiceWorker from './registerServiceWorker';
 
 import Home from './layout/home/home';
 import ButtonSandbox from './components/button/Sandbox';
+import ButtonGroupSandbox from './components/button-group/Sandbox';
 
 ReactDOM.render((
   <BrowserRouter>
@@ -14,6 +15,7 @@ ReactDOM.render((
       <Switch>
         <Route exact path="/" component={Home} />
         <Route path="/button" component={ButtonSandbox} />
+        <Route path="/button-group" component={ButtonGroupSandbox} />
       </Switch>
     </App>
   </BrowserRouter>
