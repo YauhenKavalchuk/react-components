@@ -1,0 +1,34 @@
+.title {
+  padding: 10px 0;
+  margin-bottom: 50px;
+}
+
+.dependencies,
+.socialList {
+  list-style-type: none;
+  padding: 0;
+}
+
+.socialList {
+  display: flex;
+  align-items: center;
+}
+
+.dependencyItem,
+.socialItem {
+  margin: 0 10px;
+}
+
+.socialLink {
+  display: block;
+}
+
+.dependencyLink {
+  display: inline-block;
+  color: #23C9FF;
+  margin-bottom: 5px;
+}
+
+.dependencyLink:hover {
+  text-decoration: underline;
+}

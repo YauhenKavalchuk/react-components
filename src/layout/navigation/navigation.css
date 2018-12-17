@@ -1,0 +1,42 @@
+.logoWrapper {
+  text-align: center;
+}
+
+.navigation {
+  background-color: #D43728;
+  box-shadow: 1px 1px 10px #777;
+}
+
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.nav li {
+  display: flex;
+  align-items: center;
+  flex: 1 0 100%;
+}
+
+.nav a {
+  color: #fff;
+  text-decoration: none;
+  display: flex;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 15px 0 15px 30px;
+  box-sizing: border-box;
+  border-left: 3px solid transparent;
+  font-weight: 600;
+}
+
+.nav a:hover,
+.nav a.active {
+  background-color: rgba(0,0,0,.2);
+  border-color: #EBEBEB;
+}
