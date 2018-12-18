@@ -21,7 +21,7 @@ ReactDOM.render((
         <Route path="/button-group" component={ButtonGroupSandbox} />
         <Route path="/icon" component={IconSandbox} />
         <Route path="/image" component={ImageSandbox} />
-        <Route path="/chip" component={ImageSandbox} />
+        <Route path="/chip" component={ChipSandbox} />
       </Switch>
     </App>
   </BrowserRouter>
