@@ -15,6 +15,7 @@ const Navigation = () => (
         <li><NavLink to="/icon">Icon</NavLink></li>
         <li><NavLink to="/image">Image</NavLink></li>
         <li><NavLink to="/chip">Chip</NavLink></li>
+        <li><NavLink to="/badge">Badge</NavLink></li>
       </ul>
     </nav>
   </div>
