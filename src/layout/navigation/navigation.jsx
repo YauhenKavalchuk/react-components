@@ -19,6 +19,7 @@ const Navigation = () => (
         <li><NavLink to="/list-group">List Group</NavLink></li>
         <li><NavLink to="/input">Input</NavLink></li>
         <li><NavLink to="/tabbar">Tabbar</NavLink></li>
+        <li><NavLink to="/tooltip">Tooltip</NavLink></li>
       </ul>
     </nav>
   </div>
