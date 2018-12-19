@@ -1,0 +1,36 @@
+.tab-bar-nav {
+  position: relative;
+  display: flex;
+  z-index: 2;
+}
+
+.tab-container {
+  padding: 20px;
+  min-height: 100px;
+  border: 1px solid #EDEDED;
+  border-radius: 0 0 5px 5px;
+  position: relative;
+  top: -1px;
+}
+
+.vertical.tab-bar {
+  display: flex;
+  align-items: stretch;
+}
+
+.vertical .tab-bar-nav {
+  box-sizing: border-box;
+  flex-direction: column;
+  flex: 1 0 30%;
+}
+
+.vertical .tab-container {
+  box-sizing: border-box;
+  flex: 1 0 70%;
+  top: 0;
+}
+
+.vertical .tab-container {
+  min-height: 200px;
+  border-radius: 0 5px 5px 0;
+}
