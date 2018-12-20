@@ -14,7 +14,7 @@
 - [React (документация)](https://reactjs.org/docs/getting-started.html)
 
 ## Быстрый старт
-- Клонируйте репозиторий: `git clone https://github.com/YauhenKavalchuk/react-components`
+- Клонируйте репозиторий: `git clone https://github.com/YauhenKavalchuk/react-components.git`
 - Установите зависимости: `yarn install` или `npm install`
 - Перейдите в нужную ветку соответствующую уроку: `git checkout 02_button` или `git checkout 04_icon` и т.д.
 - Запустите проект: `yarn start` или `npm start`
