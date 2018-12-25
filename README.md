@@ -35,6 +35,7 @@
 - React components #9 Поле ввода (Input​)
 - React components #10 Табы (Tabs​)
 - React components #11 Подсказка (Tooltip)
+- React components #12 Модальное окно (Modal window)
 
 ## Автор курса в социальных сетях:
 Social network | Link to Profile
