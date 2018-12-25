@@ -25,3 +25,9 @@
   border: 1px solid #5EB2F2;
   box-shadow: 0px 0 2px 0px #C0C0C0;
 }
+
+.btn.invert {
+  background-color: #FFF;
+  color: #000;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
