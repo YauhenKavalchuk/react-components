@@ -13,8 +13,8 @@ const Modal = ({
 
   return (
     <>
-      {isOpen &&
-        <Portal>
+      <Portal>
+        {isOpen &&
           <div className="modalOverlay">
             <div className="modalWindow">
               <div className="modalHeader">
@@ -30,8 +30,8 @@ const Modal = ({
               </div>
             </div>
           </div>
-        </Portal>
-      }
+        }
+      </Portal>
     </>
   );
 };
