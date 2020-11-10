@@ -23,19 +23,19 @@
 - Запустить линт проекта: `yarn lint` или `npm run lint`
 
 ## Список уроков:
-- React components #0 Введение в курс (Introduction)
-- React components #1 Установка окружения (Setup Environment​)
-- React components #2 Кнопка (Button​)
-- React components #3 Группа кнопок (Button group​)
-- React components #4 Иконка (Icon​)
-- React components #5 Картинка (Image)
-- React components #6 Фишка (Chip)
-- React components #7 Бейдж (Badge)
-- React components #8 Группированный список (List group)
-- React components #9 Поле ввода (Input​)
-- React components #10 Табы (Tabs​)
-- React components #11 Подсказка (Tooltip)
-- React components #12 Модальное окно (Modal window)
+- [#0 Введение в курс (Introduction)](https://youtu.be/YBwUfpDIMgw)
+- [#1 Установка окружения (Environment)](https://youtu.be/B0CL6vwuQnk)
+- [#2 Кнопка (Button)](https://youtu.be/cZIm24kxDzU)
+- [#3 Группа кнопок (Button group)](https://youtu.be/tfTM3WecJx8)
+- [#4 Иконка (Icon)](https://youtu.be/oSe7_r-H_Wo)
+- [#5 Картинка (Image)](https://youtu.be/RHBfeKNjcmQ)
+- [#6 Фишка (Chip)](https://youtu.be/pHPEOmudb4I)
+- [#7 Бейдж (Badge)](https://youtu.be/m4BiLKfe_x8)
+- [#8 Группированный список (List group)](https://youtu.be/zqTkDPxaLZU)
+- [#9 Поле ввода (Input)](https://youtu.be/lffkJxoUEeY)
+- [#10 Табы (Tabs)](https://youtu.be/hPfzI1-to6A)
+- [#11 Подсказка (Tooltip)](https://youtu.be/WsxjZgw5LBg)
+- [#12 Модальное окно (Modal window)](https://youtu.be/olTU0zfN_Wk)
 
 ## Автор курса в социальных сетях:
 Social network | Link to Profile
