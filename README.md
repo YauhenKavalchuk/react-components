@@ -3,24 +3,37 @@
 ### Описание курса:
 В данном видео-курсе мы с вами создадим библиотеку компонентов для проектов на **ReactJS**. Целью данного курса лекций является не создать абсалютно универсальные компоненты, а научиться мыслить в компонентном стиле и постараться создавать гибкие и переиспользуемые модули. Мы с вами рассмотрим создание как простых компонентов таких как кнопки, бейджики, иконки и т.д. так и объединение их в более сложные компоненты: табы, чипы, модальные окна.
 
-## Используемые ресурсы и инструменты:
+### Поддержать развитие канала:
+[<img alt="webDev | YouTube Sponsor" src="https://img.shields.io/badge/Become a sponsor-F70000.svg?&style=for-the-badge&logo=youtube&logoColor=fff" />][sponsor]
+[<img alt="webDev | Patreon" src="https://img.shields.io/badge/Become a patron-EF6451.svg?&style=for-the-badge&logo=patreon&logoColor=fff" />][patron]
+
+---
+
+### Используемые ресурсы и инструменты:
 - [Atom (Редактор кода)](https://atom.io/)
 - [Create React App (рабочее окружение)](https://github.com/facebook/create-react-app)
 - [React Developer Tools (расширение для браузера)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=ru)
 
-## Полезные ссылки:
+### Полезные ссылки:
 - [React (документация)](https://reactjs.org/docs/getting-started.html)
 
-## Быстрый старт:
+---
+
+### Быстрый старт:
 - Клонируйте репозиторий: `git clone https://github.com/YauhenKavalchuk/react-components.git`
+- Перейдите в нужную ветку соответствующую уроку:
+  - `git checkout 02_button`
+  - `git checkout 04_icon` и т.д.
 - Установите зависимости: `yarn install` или `npm install`
-- Перейдите в нужную ветку соответствующую уроку: `git checkout 02_button` или `git checkout 04_icon` и т.д.
 - Запустите проект: `yarn start` или `npm start`
 
-## Дополнительные комманды:
+### Дополнительные комманды:
+
 - Запустить линт проекта: `yarn lint` или `npm run lint`
 
-## Список уроков:
+---
+
+### Список уроков:
 - [#0 Введение в курс (Introduction)](https://youtu.be/YBwUfpDIMgw)
 - [#1 Установка окружения (Environment)](https://youtu.be/B0CL6vwuQnk)
 - [#2 Кнопка (Button)](https://youtu.be/cZIm24kxDzU)
@@ -35,22 +48,19 @@
 - [#11 Подсказка (Tooltip)](https://youtu.be/WsxjZgw5LBg)
 - [#12 Модальное окно (Modal window)](https://youtu.be/olTU0zfN_Wk)
 
-## Автор курса в социальных сетях:
+---
 
-[<img align="left" alt="webDev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="webDev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="webDev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="webDev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img align="left" alt="webDev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]&nbsp;
-
-## Поддержать канал:
-
-<a href="https://www.patreon.com/YauhenKavalchuk" target="_blank">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
+### Связаться со мной:
+[<img alt="webDev | YouTube" src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />][youtube]
+[<img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
+[<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="webDev | Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
+[<img alt="webDev | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />][vk]
 
 [youtube]: https://youtube.com/YauhenKavalchuk
 [instagram]: https://instagram.com/YauhenKavalchuk
 [linkedin]: https://linkedin.com/in/YauhenKavalchuk
 [vk]: https://vk.com/YauhenKavalchuk
 [twitter]: https://twitter.com/YauhenKavalchuk
+[sponsor]: https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/join
+[patron]: https://www.patreon.com/YauhenKavalchuk
